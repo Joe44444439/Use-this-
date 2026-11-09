@@ -5,7 +5,7 @@
 	"mirrorLinksFile": "private/mirror-links.txt",
 	"adsFile": "private/ads.json",
 	"minifyScripts": true,
-	"disguiseFiles": true,
+	"disguiseFiles": false,
 	"usingSEO": false,
 	"verbose": true,
 	"port": 8080,
